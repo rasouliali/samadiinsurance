@@ -1,0 +1,3201 @@
+.lotus-1253951 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 19px;
+                line-height: 1.68;
+                letter-spacing: 0.15%;
+                text-align: center;
+                color: rgba(255,255,255,1);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1253951 {
+                    font-size:16px;
+                    font-weight: 700;
+                    line-height: 1.5;
+                }
+            }
+
+            .lotus-1253951 color {
+                main: rgba(255,255,255,1);
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgba(255, 255, 255, 1);
+                dark: rgba(178, 178, 178, 1);
+            }
+
+            .lotus-ixbm9x {
+                padding: 4px 0;
+                color: rgba(4, 10, 31, 0.87);
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: justify;
+                -ms-flex-pack: space-between;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: none;
+                background: unset;
+                width: 100%;
+                text-align: unset;
+            }
+
+            .lotus-ixbm9x:hover {
+                color: #008FFF;
+                cursor: pointer;
+            }
+
+            .lotus-ixbm9x:hover .MuiSvgIcon-root {
+                color: inherit;
+            }
+
+            .lotus-ixbm9x .flexCenter {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+            }
+
+            .lotus-1kvl2qy {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                color: inherit;
+            }
+
+            .lotus-80o69r {
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                width: 1em;
+                height: 1em;
+                display: inline-block;
+                fill: currentColor;
+                -webkit-flex-shrink: 0;
+                -ms-flex-negative: 0;
+                flex-shrink: 0;
+                -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                font-size: 1.7142857142857142rem;
+                color: #757575;
+            }
+
+            .lotus-f9bpp7 {
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                width: 1em;
+                height: 1em;
+                display: inline-block;
+                fill: currentColor;
+                -webkit-flex-shrink: 0;
+                -ms-flex-negative: 0;
+                flex-shrink: 0;
+                -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                font-size: 1.7142857142857142rem;
+                color: #008FFF;
+            }
+
+            .lotus-d4c2bb {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                color: #008FFF;
+                color: #008FFF;
+            }
+
+            .lotus-4y4u6a {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                min-width: 64px;
+                padding: 5px 15px;
+                border-radius: 4px;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                border: 1px solid rgba(0, 143, 255, 0.5);
+                color: #008FFF;
+                box-shadow: none;
+                min-width: unset;
+                border-radius: 8px;
+                padding: 5px 15px;
+                border-radius: 32px;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+            }
+
+            .lotus-4y4u6a::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-4y4u6a.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-4y4u6a {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-4y4u6a:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: rgba(0, 143, 255, 0.04);
+                border: 1px solid #008FFF;
+            }
+
+            @media (hover: none) {
+                .lotus-4y4u6a:hover {
+                    background-color:transparent;
+                }
+            }
+
+            .lotus-4y4u6a.Mui-disabled {
+                color: rgba(0, 0, 0, 0.26);
+                border: 1px solid rgba(0, 0, 0, 0.12);
+            }
+
+            .lotus-4y4u6a:hover {
+                box-shadow: none;
+            }
+
+            .lotus-4y4u6a.Mui-focusVisible {
+                box-shadow: none;
+            }
+
+            .lotus-4y4u6a:active {
+                box-shadow: none;
+            }
+
+            .lotus-4y4u6a.Mui-disabled {
+                box-shadow: none;
+            }
+
+            .lotus-4y4u6a$disabled {
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-4y4u6a$disabled {
+                border: 1px solid rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-4y4u6a .MuiLoadingButton-startIconLoadingStart,.lotus-4y4u6a .MuiLoadingButton-endIconLoadingEnd {
+                -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                opacity: 0;
+            }
+
+            .lotus-4y4u6a.MuiLoadingButton-loading {
+                color: transparent;
+            }
+
+            .lotus-1a5vnnw {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                display: block;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            .lotus-1a5vnnw color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-1tjc3hn {
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                width: 1em;
+                height: 1em;
+                display: inline-block;
+                fill: currentColor;
+                -webkit-flex-shrink: 0;
+                -ms-flex-negative: 0;
+                flex-shrink: 0;
+                -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                font-size: 1.7142857142857142rem;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            .lotus-1bsgt5w {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            .lotus-1bsgt5w color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-1d3bbye {
+                box-sizing: border-box;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            .lotus-1ysfe0q {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1ysfe0q {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1ysfe0q {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1ysfe0q {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1ysfe0q {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            .lotus-1o2qpt4 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 1.33;
+                letter-spacing: -0.5%;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            .lotus-1o2qpt4 color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-cvtk1p {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 10px;
+                line-height: 1.6;
+                letter-spacing: -0.5%;
+                text-transform: uppercase;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            .lotus-cvtk1p color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-s1md9o {
+                margin: 0;
+                -webkit-flex-shrink: 0;
+                -ms-flex-negative: 0;
+                flex-shrink: 0;
+                border-width: 0;
+                border-style: solid;
+                border-color: rgba(0, 0, 0, 0.12);
+                border-bottom-width: 0;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                height: auto;
+                border-left-width: thin;
+                -webkit-align-self: stretch;
+                -ms-flex-item-align: stretch;
+                -ms-grid-row-align: stretch;
+                align-self: stretch;
+            }
+
+            .lotus-1x1olmi {
+                display: block;
+                background-color: rgba(0, 0, 0, 0.11);
+                height: 1.2em;
+                -webkit-animation: animation-c7515d 2s ease-in-out 0.5s infinite;
+                animation: animation-c7515d 2s ease-in-out 0.5s infinite;
+            }
+
+            .lotus-16x3hl {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 23px;
+                line-height: 1.74;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-16x3hl {
+                    font-size:18px;
+                    font-weight: 700;
+                    line-height: 1.77;
+                }
+            }
+
+            .lotus-16x3hl color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-17f7veg {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-17f7veg {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-17f7veg color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-10u1c5b {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-10u1c5b {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-10u1c5b {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-10u1c5b {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-10u1c5b {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            .lotus-14yq2cq {
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                width: 1em;
+                height: 1em;
+                display: inline-block;
+                fill: currentColor;
+                -webkit-flex-shrink: 0;
+                -ms-flex-negative: 0;
+                flex-shrink: 0;
+                -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                font-size: 1.7142857142857142rem;
+            }
+
+            .lotus-1n3tc2y {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                max-width: 100%;
+                font-family: IRANSansXFaNum;
+                font-size: 0.9285714285714286rem;
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                height: 24px;
+                color: rgba(255,255,255,1);
+                background-color: #008FFF;
+                border-radius: 16px;
+                white-space: nowrap;
+                -webkit-transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                cursor: unset;
+                outline: 0;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                border: 0;
+                padding: 0;
+                vertical-align: middle;
+                box-sizing: border-box;
+                background-color: transparent;
+                border: 1px solid rgba(0, 143, 255, 0.7);
+                color: #008FFF;
+                padding: 0 8px;
+                color: rgba(0, 143, 255, 0.1);
+                border-color: #008FFF;
+                background-color: #008FFF;
+                padding: 0;
+                border-color: transparent;
+                padding: 0 4px;
+            }
+
+            .lotus-1n3tc2y::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-1n3tc2y.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-1n3tc2y {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-1n3tc2y.Mui-disabled {
+                opacity: 0.38;
+                pointer-events: none;
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatar {
+                margin-right: 5px;
+                margin-left: -6px;
+                width: 24px;
+                height: 24px;
+                color: #616161;
+                font-size: 0.8571428571428571rem;
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatarColorPrimary {
+                color: rgba(255,255,255,1);
+                background-color: rgb(0, 100, 178);
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatarColorSecondary {
+                color: rgba(255,255,255,1);
+                background-color: rgb(24, 45, 156);
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatarSmall {
+                margin-right: 4px;
+                margin-left: -4px;
+                width: 18px;
+                height: 18px;
+                font-size: 0.7142857142857143rem;
+            }
+
+            .lotus-1n3tc2y .MuiChip-icon {
+                margin-right: 4px;
+                margin-left: -4px;
+                font-size: 18px;
+                color: inherit;
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon {
+                -webkit-tap-highlight-color: transparent;
+                color: rgba(255, 255, 255, 0.7);
+                font-size: 16px;
+                cursor: pointer;
+                margin: 0 -6px 0 5px;
+                margin-left: 4px;
+                margin-right: -4px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon:hover {
+                color: rgba(0, 0, 0, 0.4);
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon:hover,.lotus-1n3tc2y .MuiChip-deleteIcon:active {
+                color: rgba(255,255,255,1);
+            }
+
+            .lotus-1n3tc2y.Mui-focusVisible {
+                background-color: rgb(0, 100, 178);
+            }
+
+            .lotus-1n3tc2y.MuiChip-clickable:hover {
+                background-color: rgba(0, 143, 255, 0.04);
+            }
+
+            .lotus-1n3tc2y.Mui-focusVisible {
+                background-color: rgba(0, 143, 255, 0.12);
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatar {
+                margin-right: 4px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatarSmall {
+                margin-right: 2px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-icon {
+                margin-right: 4px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-iconSmall {
+                margin-right: 2px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon {
+                color: rgba(0, 143, 255, 0.7);
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon:hover,.lotus-1n3tc2y .MuiChip-deleteIcon:active {
+                color: #008FFF;
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIconSmall {
+                margin-left: 3px;
+            }
+
+            .lotus-1n3tc2y .MuiChip-avatar {
+                margin: 0;
+                background-color: #008FFF;
+                color: rgba(255,255,255,1);
+            }
+
+            .lotus-1n3tc2y .MuiChip-icon {
+                color: rgba(4, 10, 31, 0.87);
+                margin: 0;
+            }
+
+            .lotus-1n3tc2y .MuiChip-deleteIcon {
+                pointer-events: all;
+                margin: 0!important;
+            }
+
+            .lotus-1n3tc2y .MuiChip-label>.MuiTypography-root {
+                color: rgba(255,255,255,1);
+            }
+
+            ..lotus-1n3tc2y MuiChip-label>.MuiTypography-root {
+                padding: 0 4px;
+                color: rgba(255,255,255,1);
+            }
+
+            .lotus-1n3tc2y.Mui-disabled {
+                background-color: #EEEEEE!important;
+                border-color: transparent!important;
+            }
+
+            .lotus-cxrmjv {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                padding-right: 7px;
+                padding-left: 7px;
+                white-space: nowrap;
+            }
+
+            .lotus-l3fi0l {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            @media (min-width: 960px) {
+                .lotus-l3fi0l {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-l3fi0l {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-l3fi0l {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            .lotus-12jlasj {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            @media (min-width: 960px) {
+                .lotus-12jlasj {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-12jlasj {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-12jlasj {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            .lotus-1fqbgmm {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1fqbgmm {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-1fqbgmm color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-1534mzl {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1534mzl {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-1534mzl color {
+                main: rgba(4, 10, 31, 0.38);
+                contrast-text: rgba(255,255,255,0.38);
+                light: rgba(54, 59, 75, 0.38);
+                dark: rgba(2, 7, 21, 0.38);
+            }
+
+            .lotus-n0psej {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-align: center;
+                color: #0065FF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-n0psej {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-n0psej color {
+                main: #0065FF;
+                light: rgb(51, 131, 255);
+                dark: rgb(0, 70, 178);
+                contrast-text: rgba(255,255,255,1);
+            }
+
+            .lotus-ro9bnq {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            @media (min-width: 960px) {
+                .lotus-ro9bnq {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-ro9bnq {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-ro9bnq {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            .lotus-jvib0l {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            @media (min-width: 960px) {
+                .lotus-jvib0l {
+                    -webkit-flex-basis:75%;
+                    -ms-flex-preferred-size: 75%;
+                    flex-basis: 75%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 75%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-jvib0l {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-jvib0l {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            .lotus-1xr9h4d {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 1.0714285714285714rem;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                min-width: 64px;
+                padding: 8px 22px;
+                border-radius: 4px;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                color: rgba(255,255,255,1);
+                background-color: #008FFF;
+                box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+                box-shadow: none;
+                min-width: unset;
+                border-radius: 8px;
+                padding: 8px 22px;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+            }
+
+            .lotus-1xr9h4d::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-1xr9h4d.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-1xr9h4d {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-1xr9h4d:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: rgb(0, 100, 178);
+                box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+            }
+
+            @media (hover: none) {
+                .lotus-1xr9h4d:hover {
+                    background-color:#008FFF;
+                }
+            }
+
+            .lotus-1xr9h4d:active {
+                box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+            }
+
+            .lotus-1xr9h4d.Mui-focusVisible {
+                box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+            }
+
+            .lotus-1xr9h4d.Mui-disabled {
+                color: rgba(0, 0, 0, 0.26);
+                box-shadow: none;
+                background-color: rgba(0, 0, 0, 0.12);
+            }
+
+            .lotus-1xr9h4d:hover {
+                box-shadow: none;
+            }
+
+            .lotus-1xr9h4d.Mui-focusVisible {
+                box-shadow: none;
+            }
+
+            .lotus-1xr9h4d:active {
+                box-shadow: none;
+            }
+
+            .lotus-1xr9h4d.Mui-disabled {
+                box-shadow: none;
+            }
+
+            .lotus-1xr9h4d$disabled {
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-1xr9h4d$disabled {
+                color: rgba(4, 10, 31, 0.38);
+                background-color: #EEEEEE;
+            }
+
+            .lotus-1xr9h4d .MuiLoadingButton-startIconLoadingStart,.lotus-1xr9h4d .MuiLoadingButton-endIconLoadingEnd {
+                -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                opacity: 0;
+            }
+
+            .lotus-1xr9h4d.MuiLoadingButton-loading {
+                color: transparent;
+            }
+
+            .lotus-w7crmm {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 33px;
+                line-height: 1.7;
+                letter-spacing: 0.1%;
+                text-align: center;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-w7crmm {
+                    font-size:20px;
+                    font-weight: 700;
+                    line-height: 1.6;
+                }
+            }
+
+            .lotus-w7crmm color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-18nvz04 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 19px;
+                line-height: 1.68;
+                letter-spacing: 0.15%;
+                text-align: center;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-18nvz04 {
+                    font-size:16px;
+                    font-weight: 700;
+                    line-height: 1.5;
+                }
+            }
+
+            .lotus-18nvz04 color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-1g5nk68 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1g5nk68 {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1g5nk68 {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1g5nk68 {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1g5nk68 {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            .lotus-1u0oygq {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1u0oygq {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1u0oygq {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1u0oygq {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1u0oygq {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            .lotus-12d4iyh {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                text-align: justify;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-12d4iyh {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-12d4iyh color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-z0k7sz {
+                box-sizing: border-box;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                -webkit-flex-direction: row-reverse;
+                -ms-flex-direction: row-reverse;
+                flex-direction: row-reverse;
+            }
+
+            .lotus-m860y2 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-m860y2 {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-m860y2 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-m860y2 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-m860y2 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            .lotus-1eiy7ys {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 25%;
+                -ms-flex-preferred-size: 25%;
+                flex-basis: 25%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 25%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1eiy7ys {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1eiy7ys {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1eiy7ys {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1eiy7ys {
+                    -webkit-flex-basis:16.666667%;
+                    -ms-flex-preferred-size: 16.666667%;
+                    flex-basis: 16.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 16.666667%;
+                }
+            }
+
+            .lotus-1tj7yji {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 75%;
+                -ms-flex-preferred-size: 75%;
+                flex-basis: 75%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 75%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1tj7yji {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1tj7yji {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1tj7yji {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1tj7yji {
+                    -webkit-flex-basis:83.333333%;
+                    -ms-flex-preferred-size: 83.333333%;
+                    flex-basis: 83.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 83.333333%;
+                }
+            }
+
+            .lotus-kk9uj0 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: -0.5%;
+                text-align: center;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-kk9uj0 {
+                    font-size:12px;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-kk9uj0 color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-kiyygt {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-kiyygt {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-kiyygt {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-kiyygt {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-kiyygt {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            .lotus-1wlzjv3 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1wlzjv3 {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1wlzjv3 {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1wlzjv3 {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1wlzjv3 {
+                    -webkit-flex-basis:66.666667%;
+                    -ms-flex-preferred-size: 66.666667%;
+                    flex-basis: 66.666667%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 66.666667%;
+                }
+            }
+
+            .lotus-kyjt6t {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-kyjt6t {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-kyjt6t {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-kyjt6t {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-kyjt6t {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            .lotus-1czi12n {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 33px;
+                line-height: 1.7;
+                letter-spacing: 0.1%;
+                color: #2341DF;
+                color: #2341DF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1czi12n {
+                    font-size:20px;
+                    font-weight: 700;
+                    line-height: 1.6;
+                }
+            }
+
+            .lotus-1wp4axd {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-1wp4axd {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1wp4axd {
+                    -webkit-flex-basis:75%;
+                    -ms-flex-preferred-size: 75%;
+                    flex-basis: 75%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 75%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1wp4axd {
+                    -webkit-flex-basis:75%;
+                    -ms-flex-preferred-size: 75%;
+                    flex-basis: 75%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 75%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1wp4axd {
+                    -webkit-flex-basis:75%;
+                    -ms-flex-preferred-size: 75%;
+                    flex-basis: 75%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 75%;
+                }
+            }
+
+            .lotus-1l6xj21 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 19px;
+                line-height: 1.68;
+                letter-spacing: 0.15%;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1l6xj21 {
+                    font-size:16px;
+                    font-weight: 700;
+                    line-height: 1.5;
+                }
+            }
+
+            .lotus-1l6xj21 color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-72daba {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                text-align: justify;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-72daba {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-72daba color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-e3yecw {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            .lotus-e3yecw color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-143714t {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 1.0714285714285714rem;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                min-width: 64px;
+                padding: 8px 22px;
+                border-radius: 4px;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                color: rgba(255,255,255,1);
+                background-color: #008FFF;
+                box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+                width: 100%;
+                box-shadow: none;
+                min-width: unset;
+                border-radius: 8px;
+                padding: 8px 22px;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+            }
+
+            .lotus-143714t::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-143714t.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-143714t {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-143714t:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: rgb(0, 100, 178);
+                box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+            }
+
+            @media (hover: none) {
+                .lotus-143714t:hover {
+                    background-color:#008FFF;
+                }
+            }
+
+            .lotus-143714t:active {
+                box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+            }
+
+            .lotus-143714t.Mui-focusVisible {
+                box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+            }
+
+            .lotus-143714t.Mui-disabled {
+                color: rgba(0, 0, 0, 0.26);
+                box-shadow: none;
+                background-color: rgba(0, 0, 0, 0.12);
+            }
+
+            .lotus-143714t:hover {
+                box-shadow: none;
+            }
+
+            .lotus-143714t.Mui-focusVisible {
+                box-shadow: none;
+            }
+
+            .lotus-143714t:active {
+                box-shadow: none;
+            }
+
+            .lotus-143714t.Mui-disabled {
+                box-shadow: none;
+            }
+
+            .lotus-143714t$disabled {
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-143714t$disabled {
+                color: rgba(4, 10, 31, 0.38);
+                background-color: #EEEEEE;
+            }
+
+            .lotus-143714t .MuiLoadingButton-startIconLoadingStart,.lotus-143714t .MuiLoadingButton-endIconLoadingEnd {
+                -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                opacity: 0;
+            }
+
+            .lotus-143714t.MuiLoadingButton-loading {
+                color: transparent;
+            }
+
+            .lotus-1ab87kf {
+                display: inherit;
+                margin-left: -4px;
+                margin-right: 8px;
+            }
+
+            .lotus-1ab87kf>*:nth-of-type(1) {
+                font-size: 22px;
+            }
+
+            .lotus-1tgj12s {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 19px;
+                line-height: 1.68;
+                letter-spacing: 0.15%;
+                text-align: center;
+                color: rgba(255,255,255,0.74);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1tgj12s {
+                    font-size:16px;
+                    font-weight: 700;
+                    line-height: 1.5;
+                }
+            }
+
+            .lotus-1tgj12s color {
+                main: rgba(255,255,255,0.74);
+                contrast-text: rgba(4, 10, 31, 0.6);
+                light: rgba(255, 255, 255, 0.74);
+                dark: rgba(178, 178, 178, 0.74);
+            }
+
+            .lotus-onhama {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 33px;
+                line-height: 1.7;
+                letter-spacing: 0.1%;
+                text-align: center;
+                color: rgba(255,255,255,1);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-onhama {
+                    font-size:20px;
+                    font-weight: 700;
+                    line-height: 1.6;
+                }
+            }
+
+            .lotus-onhama color {
+                main: rgba(255,255,255,1);
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgba(255, 255, 255, 1);
+                dark: rgba(178, 178, 178, 1);
+            }
+
+            .lotus-1d2v5lj {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 40px;
+                line-height: 1.27;
+                letter-spacing: 0%;
+                text-align: center;
+                color: #23B4FF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1d2v5lj {
+                    font-size:24px;
+                    line-height: 1.66;
+                }
+            }
+
+            .lotus-1d2v5lj color {
+                main: #23B4FF;
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgb(79, 195, 255);
+                dark: rgb(24, 125, 178);
+            }
+
+            .lotus-18zfrrp {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 33px;
+                line-height: 1.7;
+                letter-spacing: 0.1%;
+                color: #008FFF;
+                color: #008FFF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-18zfrrp {
+                    font-size:20px;
+                    font-weight: 700;
+                    line-height: 1.6;
+                }
+            }
+
+            .lotus-1wgfbq3 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-align: justify;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1wgfbq3 {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-1wgfbq3 color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-8if2mi {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                display: inline;
+                color: #008FFF;
+                color: #008FFF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-8if2mi {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-wp6vlh {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.6);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-wp6vlh {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-wp6vlh color {
+                main: rgba(4, 10, 31, 0.6);
+                contrast-text: rgba(255,255,255,0.74);
+                dark: rgba(4, 10, 31, 0.87);
+                light: rgba(54, 59, 75, 0.6);
+            }
+
+            .lotus-1g2evyq {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+
+            @media (min-width: 960px) {
+                .lotus-1g2evyq {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-1g2evyq {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-1g2evyq {
+                    -webkit-flex-basis:33.333333%;
+                    -ms-flex-preferred-size: 33.333333%;
+                    flex-basis: 33.333333%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 33.333333%;
+                }
+            }
+
+            .lotus-kt2pll {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 33px;
+                line-height: 1.7;
+                letter-spacing: 0.1%;
+                color: rgba(255,255,255,1);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-kt2pll {
+                    font-size:20px;
+                    font-weight: 700;
+                    line-height: 1.6;
+                }
+            }
+
+            .lotus-kt2pll color {
+                main: rgba(255,255,255,1);
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgba(255, 255, 255, 1);
+                dark: rgba(178, 178, 178, 1);
+            }
+
+            .lotus-43fduc {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                text-align: justify;
+                color: rgba(255,255,255,1);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-43fduc {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-43fduc color {
+                main: rgba(255,255,255,1);
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgba(255, 255, 255, 1);
+                dark: rgba(178, 178, 178, 1);
+            }
+
+            .lotus-1f9ewn6 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                color: rgba(255,255,255,1);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1f9ewn6 {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-1f9ewn6 color {
+                main: rgba(255,255,255,1);
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgba(255, 255, 255, 1);
+                dark: rgba(178, 178, 178, 1);
+            }
+
+            .lotus-1wm3eyq {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 1.0714285714285714rem;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                min-width: 64px;
+                padding: 8px 22px;
+                border-radius: 4px;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                color: rgba(255,255,255,1);
+                background-color: #008FFF;
+                box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+                box-shadow: none;
+                min-width: unset;
+                border-radius: 8px;
+                padding: 8px 60px;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+            }
+
+            .lotus-1wm3eyq::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-1wm3eyq.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-1wm3eyq {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-1wm3eyq:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: rgb(0, 100, 178);
+                box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+            }
+
+            @media (hover: none) {
+                .lotus-1wm3eyq:hover {
+                    background-color:#008FFF;
+                }
+            }
+
+            .lotus-1wm3eyq:active {
+                box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+            }
+
+            .lotus-1wm3eyq.Mui-focusVisible {
+                box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+            }
+
+            .lotus-1wm3eyq.Mui-disabled {
+                color: rgba(0, 0, 0, 0.26);
+                box-shadow: none;
+                background-color: rgba(0, 0, 0, 0.12);
+            }
+
+            .lotus-1wm3eyq:hover {
+                box-shadow: none;
+            }
+
+            .lotus-1wm3eyq.Mui-focusVisible {
+                box-shadow: none;
+            }
+
+            .lotus-1wm3eyq:active {
+                box-shadow: none;
+            }
+
+            .lotus-1wm3eyq.Mui-disabled {
+                box-shadow: none;
+            }
+
+            .lotus-1wm3eyq$disabled {
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-1wm3eyq$disabled {
+                color: rgba(4, 10, 31, 0.38);
+                background-color: #EEEEEE;
+            }
+
+            .lotus-1wm3eyq .MuiLoadingButton-startIconLoadingStart,.lotus-1wm3eyq .MuiLoadingButton-endIconLoadingEnd {
+                -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                opacity: 0;
+            }
+
+            .lotus-1wm3eyq.MuiLoadingButton-loading {
+                color: transparent;
+            }
+
+            .lotus-abmvr4 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                text-align: center;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-abmvr4 {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-abmvr4 color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-h9g320 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 23px;
+                line-height: 1.74;
+                letter-spacing: 0%;
+                text-align: center;
+                color: #424242;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-h9g320 {
+                    font-size:18px;
+                    font-weight: 700;
+                    line-height: 1.77;
+                }
+            }
+
+            .lotus-h9g320 color {
+                main: #424242;
+                contrast-text: rgba(255,255,255,1);
+                light: rgb(103, 103, 103);
+                dark: rgb(46, 46, 46);
+            }
+
+            .lotus-ta5v46 {
+                box-sizing: border-box;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-align-items: flex-start;
+                -webkit-box-align: flex-start;
+                -ms-flex-align: flex-start;
+                align-items: flex-start;
+            }
+
+            .lotus-u4emkx {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 45px;
+                line-height: 1.6;
+                letter-spacing: -0.5%;
+                text-align: center;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-u4emkx {
+                    font-size:28px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-u4emkx color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-tuxzvu {
+                box-sizing: border-box;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                margin-top: -8px;
+                width: calc(100% + 8px);
+                margin-right: -8px;
+            }
+
+            .lotus-tuxzvu>.MuiGrid-item {
+                padding-top: 8px;
+            }
+
+            .lotus-tuxzvu>.MuiGrid-item {
+                padding-right: 8px;
+            }
+
+            .lotus-12jmbg0 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-12jmbg0 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-12jmbg0 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-12jmbg0 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-12jmbg0 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            .lotus-1cgo9y2 {
+                display: -webkit-inline-box;
+                display: -webkit-inline-flex;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                position: relative;
+                box-sizing: border-box;
+                -webkit-tap-highlight-color: transparent;
+                background-color: transparent;
+                outline: 0;
+                border: 0;
+                margin: 0;
+                border-radius: 0;
+                padding: 0;
+                cursor: pointer;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                vertical-align: middle;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                color: inherit;
+                font-family: IRANSansXFaNum;
+                font-weight: 500;
+                font-size: 0.9285714285714286rem;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                text-transform: uppercase;
+                min-width: 64px;
+                padding: 4px 5px;
+                border-radius: 4px;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                color: #008FFF;
+                box-shadow: none;
+                min-width: unset;
+                border-radius: 8px;
+                padding: 8px 5px;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 1.33;
+                letter-spacing: -0.5%;
+                -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+            }
+
+            .lotus-1cgo9y2::-moz-focus-inner {
+                border-style: none;
+            }
+
+            .lotus-1cgo9y2.Mui-disabled {
+                pointer-events: none;
+                cursor: default;
+            }
+
+            @media print {
+                .lotus-1cgo9y2 {
+                    -webkit-print-color-adjust: exact;
+                    color-adjust: exact;
+                }
+            }
+
+            .lotus-1cgo9y2:hover {
+                -webkit-text-decoration: none;
+                text-decoration: none;
+                background-color: rgba(0, 143, 255, 0.04);
+            }
+
+            @media (hover: none) {
+                .lotus-1cgo9y2:hover {
+                    background-color:transparent;
+                }
+            }
+
+            .lotus-1cgo9y2.Mui-disabled {
+                color: rgba(0, 0, 0, 0.26);
+            }
+
+            .lotus-1cgo9y2:hover {
+                box-shadow: none;
+            }
+
+            .lotus-1cgo9y2.Mui-focusVisible {
+                box-shadow: none;
+            }
+
+            .lotus-1cgo9y2:active {
+                box-shadow: none;
+            }
+
+            .lotus-1cgo9y2.Mui-disabled {
+                box-shadow: none;
+            }
+
+            .lotus-1cgo9y2$disabled {
+                color: rgba(4, 10, 31, 0.38);
+            }
+
+            .lotus-1cgo9y2 .MuiLoadingButton-startIconLoadingStart,.lotus-1cgo9y2 .MuiLoadingButton-endIconLoadingEnd {
+                -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+                opacity: 0;
+            }
+
+            .lotus-1cgo9y2.MuiLoadingButton-loading {
+                color: transparent;
+            }
+
+            .lotus-1juxp4k {
+                box-sizing: border-box;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                width: 100%;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                margin-top: -24px;
+                width: calc(100% + 24px);
+                margin-right: -24px;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+            }
+
+            .lotus-1juxp4k>.MuiGrid-item {
+                padding-top: 24px;
+            }
+
+            .lotus-1juxp4k>.MuiGrid-item {
+                padding-right: 24px;
+            }
+
+            .lotus-17st7y6 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-17st7y6 {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-17st7y6 {
+                    -webkit-flex-basis:50%;
+                    -ms-flex-preferred-size: 50%;
+                    flex-basis: 50%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 50%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-17st7y6 {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-17st7y6 {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            .lotus-1tujdsb {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                color: rgba(4, 10, 31, 0.87);
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1tujdsb {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-1tujdsb color {
+                main: rgba(4, 10, 31, 0.87);
+                contrast-text: rgba(255,255,255,1);
+                light: rgba(54, 59, 75, 0.87);
+                dark: rgba(2, 7, 21, 0.87);
+            }
+
+            .lotus-1hbcgfo {
+                padding: 4px 0;
+                color: #2341DF;
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: justify;
+                -ms-flex-pack: space-between;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                border: none;
+                background: unset;
+                width: 100%;
+                text-align: unset;
+            }
+
+            .lotus-1hbcgfo:hover {
+                color: #2341DF;
+                cursor: unset;
+            }
+
+            .lotus-1hbcgfo:hover .MuiSvgIcon-root {
+                color: inherit;
+            }
+
+            .lotus-1hbcgfo .flexCenter {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+            }
+
+            .lotus-1l7kazi {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 1.5;
+                letter-spacing: 0%;
+                color: inherit;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-1l7kazi {
+                    font-size:14px;
+                    line-height: 1.71;
+                }
+            }
+
+            .lotus-vgm7p6 {
+                box-sizing: border-box;
+                margin: 0;
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-flex-basis: 100%;
+                -ms-flex-preferred-size: 100%;
+                flex-basis: 100%;
+                -webkit-box-flex: 0;
+                -webkit-flex-grow: 0;
+                -ms-flex-positive: 0;
+                flex-grow: 0;
+                max-width: 100%;
+            }
+
+            @media (min-width: 600px) {
+                .lotus-vgm7p6 {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 960px) {
+                .lotus-vgm7p6 {
+                    -webkit-flex-basis:100%;
+                    -ms-flex-preferred-size: 100%;
+                    flex-basis: 100%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 100%;
+                }
+            }
+
+            @media (min-width: 1280px) {
+                .lotus-vgm7p6 {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            @media (min-width: 1920px) {
+                .lotus-vgm7p6 {
+                    -webkit-flex-basis:25%;
+                    -ms-flex-preferred-size: 25%;
+                    flex-basis: 25%;
+                    -webkit-box-flex: 0;
+                    -webkit-flex-grow: 0;
+                    -ms-flex-positive: 0;
+                    flex-grow: 0;
+                    max-width: 25%;
+                }
+            }
+
+            .lotus-e14m72 {
+                margin: 0;
+                font-family: IRANSansXFaNum;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 1.71;
+                letter-spacing: 0%;
+                color: #FFFFFF;
+            }
+
+            @media (max-width: 599px) {
+                .lotus-e14m72 {
+                    font-size:12px;
+                    font-weight: 500;
+                    line-height: 2;
+                }
+            }
+
+            .lotus-e14m72 color {
+                main: #FFFFFF;
+                contrast-text: rgba(4, 10, 31, 0.87);
+                light: rgb(255, 255, 255);
+                dark: rgb(178, 178, 178);
+            }
